@@ -11,3 +11,5 @@ dictionary. If you want to use this as a template for your own Twitter bot, just
 # Listening for a keyword/phrase
 
 <img src="https://github.com/ctcuff/TwitterBot/blob/master/screenshots/filter_stream.png" width="1000" height="325">
+
+[Check out the Tweepy library here](http://www.tweepy.org/)
